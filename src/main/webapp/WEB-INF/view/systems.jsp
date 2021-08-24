@@ -23,14 +23,6 @@ body {
 
 <hr>
 
-<p>
-	We have our annual holiday Caribbean cruise coming up. Register now!
-	<br>
-	Keep this trip a secret, don't tell the regular employees 
-</p>
-
-<hr>
-
 <a href="${pageContext.request.contextPath}/employees">Back to Home Page</a>
 
 </body>
