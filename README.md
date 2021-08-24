@@ -10,4 +10,4 @@
 
 <br><hr>
 
-This Application is based on CRUD Application. In this Application I used Java Spring Boot, Hibernate, SQL Database, JSP and CSS
+This Application is based on CRUD Application. In this Application I used Java Spring Boot, Hibernate, SQL Database, JSP and Bootstrap
